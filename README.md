@@ -1,0 +1,2 @@
+# Calculadora
+Uma calculadora que eu fiz para praticar minhas habilidades com javascript puro, css, html com a condição de não usar a função eval() para realizar os calculos. Usei alguns conceitos de maquina de estado neste projeto.
